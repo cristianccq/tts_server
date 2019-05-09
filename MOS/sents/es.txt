@@ -1,0 +1,5 @@
+Spanish Sentences: https://tatoeba.org/eng/sentences/several_random_sentences
+1. no creo que termine mis tareas para las fechas que me acabo de asignar
+2. necesito unas vacaciones de trescientos sesenta y cinco días al año
+3. encontre un modelo en español pre entrenado
+4. chévere
